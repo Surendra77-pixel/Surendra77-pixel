@@ -22,7 +22,7 @@ const surendra = {
   alias       : "Surendra77-pixel",
   location    : "India 🇮🇳",
   headline    : "Full Stack Dev | Cloud & DevOps Engineer | AI Engineer",
-  currentFocus: ["AI Agents", "RAG Systems", "Cloud Architecture", "System Design"],
+  currentFocus: ["AI Agents", "RAG Systems", "Cloud Architecture", "System Design",LLM],
   learning    : ["LangGraph", "Kubernetes", "Terraform", "Advanced LLMs"],
   openTo      : ["Freelance", "Open Source", "Collaborations", "Full-time Roles"],
   philosophy  : "Build. Break. Learn. Repeat. 🔄",
