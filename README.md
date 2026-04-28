@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Hey+there!+I'm+Surendra+Manthri+👋;Full+Stack+Developer+%7C+Cloud+%26+DevOps+Engineer;AI+Engineer+%7C+RAG+%26+Agent+Builder+🤖;Building+scalable+%26+intelligent+systems;Open+Source+%7C+Freelance+%7C+Collaborations+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Hey+there!+I'm+Surendra+Manthri+👋;Full+Stack+AI+Developer%7C+Cloud+DEVOPS+SCALABEL_DEPLOYMENT;AI+Engineer+%7C+RAG+%26+Agent+Builder+🤖;Building+scalable+%26+intelligent+systems;Open+Source+%7C+Freelance+%7C+Collaborations+🚀)](https://git.io/typing-svg)
 
 </div>
 
