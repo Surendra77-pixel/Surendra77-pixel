@@ -16,7 +16,7 @@ const surendra = {
   name        : "Surendra Manthri",
   alias       : "Surendra77-pixel",
   location    : "India 🇮🇳",
-  headline    : "Full Stack Dev | Cloud & DevOps Engineer | AI Engineer",
+  headline    : "Full Stack Dev AI DEVELOPER WITH CLOUD DEPLOYMENT",
   currentFocus: ["AI Agents", "RAG Systems", "Cloud Architecture", "System Design",LLM],
   learning    : ["LangGraph", "Kubernetes", "Terraform", "Advanced LLMs"],
   openTo      : ["Freelance", "Open Source", "Collaborations", "Full-time Roles"],
